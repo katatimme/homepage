@@ -38,19 +38,19 @@ export default function Home() {
               <a
                 href="https://www.linkedin.com/in/katayoun-timme/"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
-                <i class="fab fa-linkedin big-icon hover:text-white"></i>
+                <i className="fab fa-linkedin big-icon hover:text-white"></i>
               </a>
               <a
                 href="https://www.github.com/katatimme"
                 target="_blank"
-                rel="noopener"
+                rel="noreferrer"
               >
-                <i class="fab fa-github big-icon hover:text-white"></i>
+                <i className="fab fa-github big-icon hover:text-white"></i>
               </a>
-              <a href="assets/cv.pdf" target="_blank" rel="noopener">
-                <i class="ai ai-cv big-icon hover:text-white"></i>
+              <a href="assets/cv.pdf" target="_blank" rel="noreferrer">
+                <i className="ai ai-cv big-icon hover:text-white"></i>
               </a>
             </div>
           </div>
@@ -73,8 +73,8 @@ export default function Home() {
           myself. I am based in Berlin where I grew up. My background lies in
           mathematics and I enjoy solving hard problems. My main goal is to
           organize the team into an independent and well functioning machine
-          contributing to the company's success. I am happy to fill different
-          roles on demand to help the team and product to succeed.
+          contributing to the company&apos;s success. I am happy to fill
+          different roles on demand to help the team and product to succeed.
         </p>
       </section>
       <section className="mt-8">
